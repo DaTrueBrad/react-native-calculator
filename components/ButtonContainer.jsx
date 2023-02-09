@@ -37,7 +37,6 @@ export default function ButtonContainer({addNumber, addSymbol, addTogether,clear
 
 const styles = StyleSheet.create({
   container: {
-    // flex: 5
     width: "98%",
   },
   twoCol: {
@@ -46,8 +45,6 @@ const styles = StyleSheet.create({
   row: {
     flexDirection: "row",
     width: "100%",
-    // backgroundColor: "#fff",
     gap: 3,
-    // flex: 4
   },
 });

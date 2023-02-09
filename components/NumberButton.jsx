@@ -5,7 +5,6 @@ export default function NumberButton(props) {
   const styles = StyleSheet.create({
 
     numberButton: {
-      // aspectRatio: "1 / 1",
       flex: props.size,
       height: 80,
       backgroundColor: "#232323",
